@@ -37,6 +37,7 @@ npm run dev
 http://localhost:5000/health
 
 ### Локальный запуск Frontend
+```bash
 cd client
 npm install
 npm run dev
