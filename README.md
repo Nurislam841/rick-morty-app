@@ -1,4 +1,3 @@
-@'
 # Rick & Morty Explorer 
 
 **Rick & Morty Explorer** — это web-приложение для поиска и просмотра информации о персонажах, эпизодах и локациях из мультсериала *Rick and Morty*.
@@ -124,5 +123,4 @@ VITE_API_BASE_URL=http://localhost:5000
 
 **Nurislam**
 GitHub: [https://github.com/Nurislam841](https://github.com/Nurislam841)
-'@ | Out-File -Encoding UTF8 README.md
 
